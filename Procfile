@@ -1,1 +1,1 @@
-web: gunicorn helloapp:app
+web: python manage.py runserver
