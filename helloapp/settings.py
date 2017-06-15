@@ -25,7 +25,7 @@ SECRET_KEY = 'w0vb_bgh*dzsbs3mmkk5gsm3%pyo7h1zh8ylajpyus$h$q2@kn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://imagerecognitionvn.herokuapp.com"]
+ALLOWED_HOSTS = ["imagerecognitionvn.herokuapp.com"]
 
 
 # Application definition
