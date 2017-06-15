@@ -1,1 +1,1 @@
-web: gunicorn {{ helloapp }}.wsgi
+web: gunicorn site:app
